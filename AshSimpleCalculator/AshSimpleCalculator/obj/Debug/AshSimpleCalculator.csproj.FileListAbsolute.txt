@@ -2,3 +2,5 @@ c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator\AshSi
 c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator\AshSimpleCalculator\bin\Debug\AshSimpleCalculator.pdb
 c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator\AshSimpleCalculator\obj\Debug\AshSimpleCalculator.exe
 c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator\AshSimpleCalculator\obj\Debug\AshSimpleCalculator.pdb
+C:\Users\Ashiwin\Documents\GitHub\SimpleCalculatorConsoleApplication\AshSimpleCalculator\AshSimpleCalculator\obj\Debug\AshSimpleCalculator.exe
+C:\Users\Ashiwin\Documents\GitHub\SimpleCalculatorConsoleApplication\AshSimpleCalculator\AshSimpleCalculator\obj\Debug\AshSimpleCalculator.pdb
